@@ -4,7 +4,7 @@
 }
 
 .bgimage{
-	background-image: url('/home/cgi/Downloads/assignment1/img/tt1.gif');
+	background-image: url('/home/cgi/Desktop/assignment1/img/tt1.gif');
 	background-size: 100% 110%;
 	width: 100%;
 	height: 100vh;
@@ -131,8 +131,4 @@ height: 50px;
  margin: auto;
  float: right;
 }
-.form{
-	font-size:62px;
-	margin: auto;
-	float:center;
-}
+
